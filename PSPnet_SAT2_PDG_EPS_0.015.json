@@ -1,0 +1,19 @@
+{
+    "IGNOR_LABEL": 255,
+    "HEIGHT": 449,
+    "WIGHT": 449,
+    "DATA_PATH": "../../city-scapes-dataset/",
+    "IMAGE_LIST": "../../city-scapes-dataset/val_10.txt",
+    "SAVE_FOLDER": "../examples/PSPnet_SAT2_PDG_EPS=0.015/",
+    "NUMBER_OF_WORKERS": 0,
+    "PIN_MEMORY": false,
+
+    "EPS": 0.03,
+    "NUMBER_OF_ITERS": 120,
+    "ALPHA": 1,
+    
+    "DEVICE": "cuda:3",
+    "MODE": "NORMAL",
+    "MODEL_PATH": "../models/FGSM_FULL_PSPNET_482.pt",
+    "CLASSES":19
+}
