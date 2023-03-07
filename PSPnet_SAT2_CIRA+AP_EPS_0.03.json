@@ -4,7 +4,7 @@
     "WIGHT": 449,
     "DATA_PATH": "../../city-scapes-dataset/",
     "IMAGE_LIST": "../../city-scapes-dataset/val_10.txt",
-    "SAVE_FOLDER": "../examples/PSPnet_SAT2_CIRA+AP_EPS=0.03/",
+    "SAVE_FOLDER": "../examples/PSPnet_SAT2_CIRA+AP_EPS_0.03/",
     "NUMBER_OF_WORKERS": 0,
     "PIN_MEMORY": false,
 
