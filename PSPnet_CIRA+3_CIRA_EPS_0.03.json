@@ -12,7 +12,7 @@
     "NUMBER_OF_ITERS": 120,
     "ALPHA": 1,
     
-    "DEVICE": "cuda:2",
+    "DEVICE": "cuda:0",
     "MODE": "NORMAL",
     "MODEL_PATH": "../models/Adversarial_Combination_499.pt",
     "CLASSES":19
